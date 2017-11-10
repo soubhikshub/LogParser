@@ -1,0 +1,16 @@
+.progress {
+  width: 100%;
+}
+
+.progress-wrap {
+  background: #f80;
+  margin: 10px 0;
+  overflow: hidden;
+  position: relative;
+}
+.progress-wrap .progress-bar {
+  background: #ddd;
+  left: 0;
+  position: absolute;
+  top: 0;
+}
