@@ -1,0 +1,15 @@
+Main frontend functionalities are
+  a, Upload logs
+  b, Delete logs
+  c, Parse logs
+  d, show parsing progress
+  e, 
+  
+  
+  
+  
+Main backend functionalities are
+  a, Read files from log folder
+  b, Delete files from Log folder
+  c, parsers - different functionalities for each log types
+  d, push to influx
